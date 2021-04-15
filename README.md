@@ -1,0 +1,1 @@
+This is a project to deconstruct Google homepage using developer tools and re-writin the page in a code-editor
